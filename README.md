@@ -5,7 +5,7 @@
 
 
 
-- 🔭 print("I’m currently Persuing My B-tech "); 
+- 🔭 print("I’m currently Persuing  B-tech "); 
 - ⌨️ cout<<"Love to code"<<endl;
 - 🕹️ Switch(Skills){
 - 🕹️ case 1 : printf("html,css& javascript");
