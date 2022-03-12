@@ -15,7 +15,7 @@
 - 📚 print("Learning : React");
 - 🌐 https://programmeraman.tech/ 
 
-- [Github Veiws](https://komarev.com/ghpvc/?username=amanansari247&color=green) 
+- ![Github Veiws](https://komarev.com/ghpvc/?username=amanansari247&color=green) 
 
 
 
