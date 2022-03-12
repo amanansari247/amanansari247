@@ -10,8 +10,7 @@
 - 🕹️ Switch(Skills){
 - 🕹️ case 1 : printf("html,css& javascript");
 - 🕹️ case 2 : printf("python");
-- 🕹️ case 3 : printf("C & C++");
-- 🕹️ case 4 : printf("Node Js");}
+- 🕹️ case 3 : printf("C & C++");}
 - 📚 print("Learning : React");
 - 🌐 https://programmeraman.tech/ 
 
