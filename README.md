@@ -12,7 +12,7 @@
 - 🕹️ case 2 : printf("python");
 - 🕹️ case 3 : printf("C & C++");}
 - 📚 print("Learning : React");
-- 🌐 https://programmeraman.tech/ 
+- 🌐 https://programmeraman.rf.gd/ 
 
 - ![Github Veiws](https://komarev.com/ghpvc/?username=amanansari247&color=green) 
 
